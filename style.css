@@ -9,6 +9,19 @@ body{
     background-color: rgb(27, 27, 27);
 }
 
+/* card style */
+p{
+    font-family: 'Lora', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+}
+
+h5{
+    font-family: 'Lora', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+}
+/* end card style */
 
 
 /* COOL BUTTON STUFF */
@@ -124,3 +137,4 @@ body{
 }
 /* 
 button end */
+
